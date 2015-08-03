@@ -12,7 +12,7 @@ The app is a proof-of-concept, and a little rough around the edges. It should wo
 
 (Requires node, grunt, bower)
 
-    $ npm intall
+    $ npm install
     $ bower install
     $ grunt server
 
